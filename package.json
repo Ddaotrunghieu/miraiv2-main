@@ -10,9 +10,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/D-Jukie/miraiv2.git"
+        "url": "git+https://github.com/Ddaotrunghieu/miraiv2.git"
     },
-    "author": "D-Jukie",
+    "author": "Kaneki",
     "dependencies": {
         "@miraipr0ject/assets": "^1.0.9",
         "axios": "",
